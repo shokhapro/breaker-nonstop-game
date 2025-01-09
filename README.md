@@ -1,5 +1,9 @@
 # breaker-nonstop-game
-A Unity game prototype.   Mob Control + Swipe Brick Breaker = this.
+A Unity game prototype.
+
+Idea:
+Mob Control + Swipe Brick Breaker = this.
+
 
 Result Proto:
 <br>
